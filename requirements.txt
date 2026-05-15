@@ -15,3 +15,5 @@ scikit-learn
 nltk
 xgboost
 dvc
+dvc[s3]
+awscli
